@@ -1,0 +1,9 @@
+# Never upload data or generated outputs
+Data/
+share/
+results/
+figures/
+*.rds
+*.RData
+.Rhistory
+.Rproj.user/
