@@ -4,7 +4,7 @@ Reproducible analysis pipeline for:
 
 > Siraj Ud Din, Sartaj Ud Din, Asif Ali Shah. *EZH2* expression is associated with *LAG3* and *PDCD1* independently of tumor proliferation in IDH-wildtype glioblastoma: a three-cohort analysis (submitted).
 
-Archived version: [Zenodo DOI, version 1.1]
+Archived version: (https://doi.org/10.5281/zenodo.23168380)
 
 ## Overview
 Analysis of *EZH2* in three IDH-wildtype primary glioblastoma cohorts (TCGA n = 160; CGGA_325 n = 74; CGGA_693 n = 109): expression and PRC2/proliferation coupling, Cox survival models, confounder-adjusted (partial Spearman) correlations with eight immune checkpoint genes and fixed-effect meta-analysis (Fisher z, I2, random-effects sensitivity), ESTIMATE/MCP-counter microenvironment analyses, a cell-cycle sensitivity analysis (MSigDB Hallmark E2F + G2M), and single-cell summaries (TISCH2, Neftel et al. 2019, Smart-seq2).
